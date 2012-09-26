@@ -10,7 +10,7 @@ I'll have the link up soon!
 Resources Used
 ===============
 
-* [BootTheme](http://boottheme.com)
+* [BootTheme](http://boottheme.com) - used to generate theme. Also, used for the index file preview
 * [ColourLovers](http://colourlovers.com)
 * [Bootstrap](http://getbootstrap.com)
 * [FontAwesome](http://fortawesome.github.com/Font-Awesome/)
