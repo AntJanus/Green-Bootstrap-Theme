@@ -1,4 +1,5 @@
-== Green Bootstrap Theme ==
+Green Bootstrap Theme
+======================
 
 For the purposes of an article I wrote, I created a bootstrap theme.
 
@@ -6,7 +7,8 @@ It's currently running on BS2.1.0 If you want to upgrade, it's pretty easy. Just
 
 I'll have the link up soon!
 
-== Resources Used ==
+Resources Used
+===============
 
 * [BootTheme](http://boottheme.com)
 * [ColourLovers](http://colourlovers.com)
