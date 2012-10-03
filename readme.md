@@ -14,3 +14,7 @@ Resources Used
 * [ColourLovers](http://colourlovers.com)
 * [Bootstrap](http://getbootstrap.com)
 * [FontAwesome](http://fortawesome.github.com/Font-Awesome/)
+
+PREVIEW
+=================
+http://antjanus.github.com/Green-Bootstrap-Theme/
